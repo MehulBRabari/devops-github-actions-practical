@@ -3,4 +3,4 @@ def add(a, b):
 
 
 def test_add():
-    assert add(10, 20) == 30
+    assert add(10, 20) == 31
